@@ -1,0 +1,27 @@
+[
+	{
+			"question":"Inside which HTML element do we put JAVASCRIPT?",
+			"choice1":"<script>",
+			"choice2":"<js>",
+			"choice3":"<JAVASCRIPT>",
+			"choice4":"<scripting>",
+			"answer": 1
+	},
+	{
+			"question":"Inside which HTML element do we put JAVASCRIPT?",
+			"choice1":"<script>",
+			"choice2":"<js>",
+			"choice3":"<JAVASCRIPT>",
+			"choice4":"<scripting>",
+			"answer": 1
+	},
+	{
+			"question":"Inside which HTML element do we put JAVASCRIPT?",
+			"choice1":"<script>",
+			"choice2":"<js>",
+			"choice3":"<JAVASCRIPT>",
+			"choice4":"<scripting>",
+			"answer": 1
+	}
+		
+]
